@@ -12,7 +12,7 @@ Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and
   
 ## 3. Data set Description
 The data set consists of 4177 rows and 9 Attributes.The data set consumes memory of about 269 Kb.
-The data types are factor and numeric.One of the 9 Attributes is the Sex which consists of 3 classes(F,I,M)
+The data types of the 9 attributes are 7 numeric,1 integer and 1 category.One of the 9 Attributes is the Sex which consists of 3 classes(F,I,M)
 Number of Attributes: 9
 The attribute information consists of the below.
 1. Attribute name
