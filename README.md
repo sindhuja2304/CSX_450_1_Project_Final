@@ -27,9 +27,9 @@ We measured the minimum value, maximum value, median value, mean value like belo
 
 
 ## 4. A proposed solution
-A solution to this model would be a Multiple Regression model.
+A solution to this model would be a Multiple Regression model.Since no single feature is well-correlated with the number of rings.For this reason, a linear regression model would not be appropriate.
 ## 5. A benchmark model
-A good benchmark model would be a naive Linear Regression model.
+A good benchmark model would be a naive Linear Regression model.It focuses on single variable rather than many.
 ## 6. A performance Metric
-The performance would be the mean square error(MSE).The MSE would be small if the predicted responses are close to the true.So the smaller MSE,the more accurate model.
+The performance would be the mean square error(MSE) and maximize R squared.The MSE would be small if the predicted responses are close to the true.So the smaller MSE,the more accurate model and higher the R-squared the better,since this metric indicates the percentage of variation in the target.
 
