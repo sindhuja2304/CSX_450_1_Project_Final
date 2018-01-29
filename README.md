@@ -11,8 +11,8 @@ Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and
 	Report No. 48 (ISSN 1034-3288)
   
 ## 3. Data set Description
-The size of the data set is 4177 rows and 9 columns.The data set consumes memory of about 269 Kb.
-The data types are factor and numeric.
+The data set consists of 4177 rows and 9 Attributes.The data set consumes memory of about 269 Kb.
+The data types are factor and numeric.One of the 9 Attributes is the Sex which consists of 3 classes(F,I,M)
 Number of Attributes: 9
 The attribute information consists of the below.
 1. Attribute name
@@ -23,8 +23,8 @@ The 9 attributes in this data set are Sex,Length,Diameter,Height,Whole weight,Sh
 
 We measured the minimum value, maximum value, median value, mean value like below
 
+![statistics](https://user-images.githubusercontent.com/35319815/35492202-4aaf3992-0460-11e8-91ef-6a6a53844694.JPG)
 
-The distribution of the target class of the features are as below represented with the histogram.
 
 ## 4. A proposed solution
 A solution to this model would be a Regression model such as the linear Regression.
