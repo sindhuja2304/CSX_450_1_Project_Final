@@ -29,7 +29,7 @@ We measured the minimum value, maximum value, median value, mean value like belo
 ## 4. A proposed solution
 A solution to this model would be a Multiple Regression model.
 ## 5. A benchmark model
-A good benchmark model would be a naive Linear Regression model.
+A good benchmark model would be a naive Logistic Regression model.
 ## 6. A performance Metric
 The performance would be the mean square error(MSE).The MSE would be small if the predicted responses are close to the true.So the smaller MSE,the more accurate model.
 
