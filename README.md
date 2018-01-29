@@ -27,10 +27,9 @@ We measured the minimum value, maximum value, median value, mean value like belo
 
 
 ## 4. A proposed solution
-A solution to this model would be a Regression model such as the linear Regression.
+A solution to this model would be a Multiple Regression model.
 ## 5. A benchmark model
-A good benchmark model would be 
+A good benchmark model would be a naive Linear Regression model.
 ## 6. A performance Metric
- We will use the metric of Accuracy to evaluate our models.This is the ratio of the correct predictions of the model divided by total number of instances in the data set multiplied by 100.
-
+The performance would be the mean square error(MSE).The MSE would be small if the predicted responses are close to the true.So the smaller MSE,the more accurate model.
 
